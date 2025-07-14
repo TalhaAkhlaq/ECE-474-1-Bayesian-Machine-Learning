@@ -23,7 +23,7 @@ Implement and compare two linear classifiers on a synthetic dataset and then eva
 
 - Select a binary classification dataset with **only numerical features** from:
   - Kaggle (https://www.kaggle.com/)
-  - or UCI Machine Learning Repository (https://archive.ics.uci.edu)
+  - UCI Machine Learning Repository (https://archive.ics.uci.edu)
 
 - Apply both classifiers to the new dataset
 
