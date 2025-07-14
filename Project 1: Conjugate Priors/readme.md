@@ -1,4 +1,4 @@
-# Conjugate Estimators
+# Project 1: Conjugate Priors
 
 ## Scenarios
 | Scenario | Likelihood | Conjugate Prior | Parameter |
