@@ -16,7 +16,7 @@ This repository contains coursework and projects from **ECE 474: Bayesian Machin
 
 ## Copyright & Licensing
 
-Copyright © 2024 Talha Akhlaq <talhaakhlaq1@gmail.com>  
+Copyright © Talha Akhlaq
 Distributed under the MIT License. See `LICENSE` for details.
 
 For more information on my projects and other academic work, please visit my [GitHub profile](https://github.com/TalhaAkhlaq).
